@@ -1,4 +1,4 @@
-package com.mmariska.jmh.tutorial1;
+package com.mmariska.jmh.investigations;
 
 import java.util.Random;
 import java.util.concurrent.TimeUnit;
